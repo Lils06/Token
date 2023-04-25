@@ -18,7 +18,9 @@ Once you are on the Remix website, create a new file by clicking on the "+" on t
 
 # Author
 Michael John V. Lilangan 
+
 BSIT 2.5
+
 8213649@ntc.edu.ph
 
 # License
